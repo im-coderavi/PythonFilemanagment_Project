@@ -40,7 +40,7 @@ def show_files():
         print("No files or folders found.")
         return
 
-    print("📂 Files & Folders in Current Directory\n")
+    print(" Files & Folders in Current Directory\n")
 
     for i, item in enumerate(items, start=1):
         if item.is_file():
@@ -213,4 +213,5 @@ def main_menu():
 # Program starts here
 # --------------------------------------------------
 main_menu()
+
 
