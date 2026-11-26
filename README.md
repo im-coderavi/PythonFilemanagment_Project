@@ -1,4 +1,4 @@
-# 📁 Advanced File Management System (Python)  
+# 📁 Advanced File Management System (Python)
 
 A **menu-driven File Management System** built using Python that allows users to manage files easily using **numeric options only**.  
 This project focuses on **clean code**, **real-world logic**, and **beginner-friendly understanding**, while still being **interview-ready**.
